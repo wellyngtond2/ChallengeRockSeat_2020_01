@@ -1,4 +1,4 @@
-# Funcionalidades da aplicação
+# Application Functionalities
 
 ## List your repository API : 
 Deve ser capaz de criar uma lista com o campo title de todos os repositórios que estão cadastrados na sua API.
